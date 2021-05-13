@@ -2,7 +2,7 @@
 **I'm Hani**, a student at HackYourFuture 👨‍💻 
 I'm currently involved in a 28-week course designed to cover all aspects of full-stack development. 🚀  
   
-### 🌱 Things I am currently working on: 
+### 🌱 Things I am currently working on:             <img align="right" alt="GIF" height="300px" src="tenor.gif" />
 
 - 🔭 I’m currently learning **JavaScript** 🤩  
   
