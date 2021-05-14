@@ -21,7 +21,7 @@ I'm currently involved in a 28-week course designed to cover all aspects of full
 - Teach my French bulldog new commands
 
 ### 🛠 Tech Stack:  
--
+
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -33,7 +33,7 @@ I'm currently involved in a 28-week course designed to cover all aspects of full
 ### ⚙️ GitHub Analytics:
 
 
-- <a href="https://github.com/AVS1508">
+ <a href="https://github.com/AVS1508">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hani-AS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hani-AS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -41,5 +41,5 @@ I'm currently involved in a 28-week course designed to cover all aspects of full
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-- [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.sabti87@gmail.com)
+ [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.sabti87@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/comingSoon/)
