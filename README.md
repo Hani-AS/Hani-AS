@@ -1,18 +1,12 @@
 # Hello traveler...🚶‍♂️
 **I'm Hani**, a student at HackYourFuture 👨‍💻 
-I'm currently involved in a 28-week course designed to cover all aspects of full-stack development. 🚀  
+ I'm currently involved in a 28-week course designed to cover all aspects of full-stack development. 🚀  
   
 ### 🌱 Things I am currently working on:             <img align="right" alt="GIF" height="300px" src="tenor.gif" />
 
 - 🔭 I’m currently learning **JavaScript** 🤩  
-  
-
 - 🌱 The next step is learning **Node JS**.  
-  
-
 - ❓ Ask me about anything, I am happy to help.  
-  
-
 - ⚡ Fun fact: I race **virtual cars** for a well known Formula one driver.  
 
 ### :muscle: Things I am challenging myself with:
@@ -31,7 +25,6 @@ I'm currently involved in a 28-week course designed to cover all aspects of full
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### ⚙️ GitHub Analytics:
-
 
  <a href="https://github.com/AVS1508">
   <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hani-AS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
