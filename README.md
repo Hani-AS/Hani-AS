@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I race **virtual cars** for a well known Formula one driver.  
 
 ### :muscle: Things I am challenging myself with:
-- Code at least 6 hours a day
+- Code at least 4 hours a day
 - Exercising 4 days a week
 - Teach my French bulldog new commands
 
