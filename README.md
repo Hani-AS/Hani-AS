@@ -5,7 +5,7 @@
 ### 🌱 Things I am currently working on:             <img align="right" alt="GIF" height="300px" src="tenor.gif" />
 
 - 🔭 I’m currently learning **JavaScript** 🤩  
-- 🌱 The next step is learning **Node JS**.  
+- 🌱 The next step is learning to use **API'S**.  
 - ❓ Ask me about anything, I am happy to help.  
 - ⚡ Fun fact: I race **virtual cars** for a well known Formula one driver.  
 
