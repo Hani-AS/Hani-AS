@@ -4,8 +4,8 @@
   
 ### 🌱 Things I am currently working on:             <img align="right" alt="GIF" height="300px" src="tenor.gif" />
 
-- 🔭 I’m currently learning **Node JS** 🤩  
-- 🌱 The next step is learning to use **Databases**.  
+- 🔭 I’m currently learning **Databases** 🤩  
+- 🌱 The next step is learning to use **React**.  
 - ❓ Ask me about anything, I am happy to help.  
 - ⚡ Fun fact: I race **virtual cars** for a well known Formula one driver.  
 
@@ -16,6 +16,8 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
