@@ -4,8 +4,8 @@
   
 ### 🌱 Things I am currently working on:             <img align="right" alt="GIF" height="300px" src="tenor.gif" />
 
-- 🔭 I’m currently learning **Databases** 🤩  
-- 🌱 The next step is learning to use **React**.  
+- 🔭 I’m currently learning **React** 🤩  
+- 🌱 The next step is **React project**.  
 - ❓ Ask me about anything, I am happy to help.  
 - ⚡ Fun fact: I race **virtual cars** for a well known Formula one driver.  
 
