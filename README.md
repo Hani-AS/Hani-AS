@@ -1,6 +1,6 @@
 # Hello traveler...🚶‍♂️
-**I'm Hani**, a graduate from HackYourFuture 👨‍💻 
- I'm completed a 28-week course designed to cover all aspects of full-stack development. 🚀  
+**I'm Hani**, a Frontend developer 👨‍💻 
+ I have completed a 28-week course designed to cover all aspects of full-stack development. 🚀  
   
 ### 🌱 Things I am currently working on:             <img align="right" alt="GIF" height="300px" src="tenor.gif" />
 
