@@ -1,11 +1,11 @@
 # Hello traveler...🚶‍♂️
-**I'm Hani**, a student at HackYourFuture 👨‍💻 
- I'm currently involved in a 28-week course designed to cover all aspects of full-stack development. 🚀  
+**I'm Hani**, a graduated from HackYourFuture 👨‍💻 
+ I'm completed a 28-week course designed to cover all aspects of full-stack development. 🚀  
   
 ### 🌱 Things I am currently working on:             <img align="right" alt="GIF" height="300px" src="tenor.gif" />
 
 - 🔭 I’m currently learning **React** 🤩  
-- 🌱 The next step is **React project**.  
+- 🌱 The next step is **Nextjs**.  
 - ❓ Ask me about anything, I am happy to help.  
 - ⚡ Fun fact: I race **virtual cars** for a well known Formula one driver.  
 
